@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://sundemeng.oss-cn-hangzhou.aliyuncs.com/troubleQueryIcon.png</string>
+                   <string>http://troublequery.oss-cn-beijing.aliyuncs.com/troubleQueryIcon.png</string>
                </dict>
            </array>
            <key>metadata</key>
